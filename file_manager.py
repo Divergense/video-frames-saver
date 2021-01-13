@@ -1,3 +1,9 @@
+import datetime
+from pathlib import Path
+from shutil import copyfile
+
+
+
 class DeleteUnpairs():
     '''
     Deletes all files of dst_dir with specific extension that names don't equal to file names in src_dir.

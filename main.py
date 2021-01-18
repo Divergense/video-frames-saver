@@ -8,7 +8,6 @@ import pafy
 from tqdm.notebook import tqdm
 
 
-
 class FramesWriter():
     def __init__(self, src_paths, frame_step=200, frame_count=10, preproc=None):
         '''

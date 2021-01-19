@@ -1,6 +1,14 @@
 # video_frames_saver
 Saves some frames of multiple video files (in particular from youtube).
 
+### Todo:
+
+- add dstat files processing
+
+- bar detection
+
+- object detection web site
+
 # Usage
 
 Write video frames to output video file:
